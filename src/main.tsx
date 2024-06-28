@@ -1,10 +1,10 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import Button from './components/utilities/Button'
+import Header from './components/layout/Header'
 import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
-    <Button  />
+    <Header />
   </React.StrictMode>
 )

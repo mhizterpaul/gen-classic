@@ -1,5 +1,5 @@
-import * as comp from '../components/'
-import * as lay from '../components/layout/'
+import * as comp from '../components'
+import * as lay from '../components/layout'
 import * as utils from '../components/utilities'
 import './index.css'
 
